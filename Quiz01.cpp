@@ -1,4 +1,4 @@
-//Write a program to find greatest of three numbers.
+//Write a program to find greatest of three numbers...
 #include <iostream>
 using namespace std;
 
