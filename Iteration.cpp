@@ -4,7 +4,6 @@ using namespace std;
 int linearSearch(vector<int> v, int key) {
       for (int i = 0; i < v.size(); i++) {
       
-          // If the KEY IS FOUND
           if (v[i] == key) {
               return i;
         }
